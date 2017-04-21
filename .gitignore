@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+node_modules/
+static/
+test/
+webpack.server.config.js
+zebra.js
+zebra-config.json
